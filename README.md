@@ -1,4 +1,4 @@
-### Hi there 👋
+### Dwaragesh Sivakumar is a computer science major concentrating in software engineering at the University of Illinois at Chicago. He is passionate to explore new opportunities in back-end development, as well as Artificial Intelligence integrated with Health Care. He values the idea to think outside the box by being curious through participating in various organizations, including the Association of Computer Machinery (ACM) and Vehicle Electronics and Systems Engineering (VESE). He aims to make an impact in enriching society by exploring new avenues in computer science and medicine in order to maintain equity and responsibility among all.
 
 <!--
 **dwaragesh-sivakumar/dwaragesh-sivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
