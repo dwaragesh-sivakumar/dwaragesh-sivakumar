@@ -1,4 +1,4 @@
-dwaragesh-sivakumar/dwaragesh-sivakumar is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋
 
 - 🔭 I’m currently working as a Research Assistant with Dr. Diaz, working on Water Quality Datasets and Machine Learning Models
 - 🌱 I’m currently seeking value in key disciplines, including Artificial Intelligence, Machine Learning, Software Engineering, and Healthcare
