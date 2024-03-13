@@ -8,3 +8,4 @@ I graduated from University of Illinois at Chicago as a Computer Science major w
 - 📫 Connect here [dwaragesh-sivakumar](https://www.linkedin.com/in/dwaragesh-sivakumar/) with me via LinkedIn! 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I like to code, play badminton, and basketball!
+- 📷 Follow my photography page: [clicked-by-dwara](https://www.instagram.com/clicked_by_dwara/)
